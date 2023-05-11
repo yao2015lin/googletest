@@ -32,6 +32,8 @@
 // IWYU pragma: private, include "gtest/gtest.h"
 // IWYU pragma: friend gtest/.*
 // IWYU pragma: friend gmock/.*
+//test
+
 
 #ifndef GOOGLETEST_INCLUDE_GTEST_GTEST_PRED_IMPL_H_
 #define GOOGLETEST_INCLUDE_GTEST_GTEST_PRED_IMPL_H_
